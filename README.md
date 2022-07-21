@@ -1,4 +1,4 @@
- ## Olá!! Eu sou o Victor Teonacio, estudante de programação e apaixonado por tecnologia
+ ## Olá!! Eu sou o Victor Teonacio.
 
 <div align="center">
   <a href="https://github.com/VictorTeonacio">
